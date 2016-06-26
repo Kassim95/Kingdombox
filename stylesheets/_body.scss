@@ -5,6 +5,7 @@ $text-font: cursive;
 body{
 	background: url(../images/background.jpg); 
 	/*background-size: 1100px 1300px;*/
+	background-repeat: no-repeat;
 	color: $text-color;
 	font-family: $text-font;
 }
